@@ -7,7 +7,7 @@ import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 class GeminiService {
   // 1) Read your API key from .env
-  final String _apiKey = 'AIzaSyCoy81uXO1MmYTEXoSGs6Z8Ty-Qe3rXip4';
+  final String _apiKey = dotenv.env['GEMINI_API_KEY'];
 
   /// Call this once (e.g. in initState) to see which models your key supports.
   Future<void> listModels() async {
