@@ -38,12 +38,7 @@ An ongoing Flutter mobile app that helps you evaluate whether your budget aligns
 
 ---
 
-## Screenshots
-*(Add screenshots of the app here)*
-
----
-
-## 🛠 Tech Stack
+## Tech Stack
 - **Flutter & Dart** for cross-platform mobile development  
 - **fl_chart** for pie charts and data visualization  
 - **patch_package** to patch dependencies at build-time  
@@ -52,7 +47,7 @@ An ongoing Flutter mobile app that helps you evaluate whether your budget aligns
 
 ---
 
-## 🏗 Getting Started
+## Getting Started
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/<your-username>/live_well.git
@@ -96,7 +91,7 @@ Attach this APK to a GitHub Release and link it for easy downloads:
 
 ---
 
-## 🛣 Roadmap
+## Roadmap
 - Receipt scanning & OCR for auto-expense capture  
 - Tax optimization strategies (e.g. TFSA/RRSP guidance for Canadian users)  
 - What‑If sliders to adjust salary/expenses live  
