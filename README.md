@@ -91,6 +91,12 @@ Attach this APK to a GitHub Release and link it for easy downloads:
 
 ---
 
+## Screenshots
+<img width="259" alt="Screenshot 2025-05-20 172442" src="https://github.com/user-attachments/assets/76928880-a8bb-47e7-a650-cfa5391f7d31" />
+<img width="263" alt="Screenshot 2025-05-20 172521" src="https://github.com/user-attachments/assets/a514da90-2401-4df0-918b-a6e2a333ac70" />
+
+---
+
 ## Roadmap
 - Receipt scanning & OCR for auto-expense capture  
 - Tax optimization strategies (e.g. TFSA/RRSP guidance for Canadian users)  
